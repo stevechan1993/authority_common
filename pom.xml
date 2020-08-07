@@ -8,5 +8,12 @@
     <artifactId>authority-common</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+    <!-- poi -->
+    <dependencies>
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+            <version>4.0.1</version>
+        </dependency>
+    </dependencies>
 </project>
